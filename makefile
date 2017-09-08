@@ -6,7 +6,7 @@ vol2=${host_dir}/notebooks
 mnt2=/notebooks
 pl1=8888
 pd1=8888
-passwd=ysu123
+passwd=123
 
 
 pull-image:
