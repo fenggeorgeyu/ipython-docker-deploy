@@ -1,5 +1,5 @@
 
-name=ipython-dk1
+name=ipython-dk2
 image=ipython/scipyserver
 host_dir=$(shell pwd)
 vol1=${host_dir}/shared
